@@ -13,6 +13,7 @@
         <module>learn-spring-security</module>
         <module>learn-validation</module>
         <module>learn-sa-token</module>
+        <module>learn-mybatis</module>
     </modules>
 
     <properties>
